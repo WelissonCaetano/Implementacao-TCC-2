@@ -6,6 +6,7 @@ Analyze 1
 
 @author: Welisson Caetano da silva Leano
 @version: 1.0
+
 ######################################################
 
 Estrutura de entrada:
@@ -15,6 +16,7 @@ ex:
 "C:\Users\caetano\Desktop\cf-sentiment-basic.csv"
 
 Ultiliza a IDE R studio 
+
 ######################################################
 
 Estrutura de saída:
@@ -40,6 +42,7 @@ Para executar o script, deve-se executar lendo a principio o arquivo main.R atra
 
 A base de dados cf-sentiment-basic.csv esta disponivel em:
 <https://sites.google.com/site/crowdscale2013/shared-task/sentiment-analysis-judgment-data >
+
 
 ######################################################
 readme.md.txt
