@@ -45,5 +45,7 @@ A base de dados cf-sentiment-basic.csv esta disponivel em:
 
 
 ######################################################
+
+
 readme.md.txt
 Exibindo readme.md.txt…
