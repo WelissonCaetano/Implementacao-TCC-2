@@ -3,7 +3,7 @@ library(dplyr)
 library(ggplot2)
 
 #Rotinas auxiliares, como a de normalizacao
-source("C:/Users/caetano/Desktop/CognitiveProfiles/util.R")
+source("C:/Users/caetano/Desktop/CognitiveProfiles/Implementacao-TCC-2/util.R")
 
 # Nome: calPropRespostasConcluisivasTrabalhador
 # Par?metros: Todos: um data frame com a quantidade de resposta dada por cada um dos avaliadores
