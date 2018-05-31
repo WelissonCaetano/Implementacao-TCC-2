@@ -2,6 +2,7 @@
 library(dplyr)
 library(ggplot2)
 
+
 #Rotinas auxiliares, como a de normalizacao
 source("C:/Users/caetano/Desktop/CognitiveProfiles/Implementacao-TCC-2/util.R")
 
