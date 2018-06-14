@@ -1,4 +1,4 @@
-#Fun??o para normalizar as metrica com valores entre 0 e 1
+#Funcao para normalizar as metrica com valores entre 0 e 1
 
 Normaliza <- function (dados) {
   maior <- max(dados[,2])
