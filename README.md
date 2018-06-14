@@ -5,7 +5,7 @@ Scripts da implementação na linguagem R
 Analyze 1
 
 @author: Welisson Caetano da silva Leano
-@version: 1.0
+@version: 2.0
 
 ######################################################
 
@@ -21,9 +21,11 @@ Ultiliza a IDE R studio
 
 Estrutura de saída:
 Os seguintes arquivos são de saída de dados:
-Rplot ElbowMetod.png
-Rplot De Clusters.png
-Rplot BoxSplot das Metricas.png
+ErroPorNumeroDeGrupos.png
+boxPlotMetricasNaoNormalizadas.png
+boxPlotMetricasNormalizadas.png
+centroids.png
+
 
 ######################################################
 
@@ -32,6 +34,7 @@ O arquivo principal
 main.R
 Arquivos de auxiliares
 util.R
+class.R
 
 ######################################################
 
